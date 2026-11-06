@@ -65,12 +65,12 @@
     "alpinejs": "^3.15.3",
     "autoprefixer": "^10.4.24",
     "iframe-resizer": "^4.3.2",
-    "js-cookie": "^3.0.5",
+    "js-cookie": "^3.0.7",
     "loglevel": "^1.9.2",
     "loglevel-plugin-prefix": "^0.8.4",
     "lucide-static": "^1.7.0",
     "split-grid": "^1.0.11",
-    "svgo": "^4.0.0",
+    "svgo": "^4.1.0",
     "tailwindcss": "^3.4.19",
     "throttle-debounce": "^5.0.2",
     "tippy.js": "^6.3.2"
@@ -78,7 +78,7 @@
   "devDependencies": {
     "@parcel/resolver-glob": "^2.16.0",
     "commitizen": "^4.3.2",
-    "concurrently": "^9.2.1",
+    "concurrently": "^9.2.5",
     "cz-conventional-changelog": "^3.3.0",
     "eslint": "^8.2.0",
     "eslint-config-airbnb-base": "^15.0.0",
@@ -87,11 +87,11 @@
     "husky": "^9.1.7",
     "lint-staged": "^17.4.1",
     "parcel": "^2.16.4",
-    "postcss": "^8.4.23",
+    "postcss": "^8.5.32",
     "postcss-import": "^16.1.0",
     "postcss-import-ext-glob": "^2.0.1",
     "prettier": "3.8.1",
-    "release-it": "^19.2.4",
+    "release-it": "^21.1.2",
     "watch": "^0.13.0"
   },
   "prettier": {
